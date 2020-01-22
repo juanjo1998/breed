@@ -1,3 +1,7 @@
+*{
+  overflow: scroll;
+  -webkit-overflow-scrolling: touch;}
+
 body {
   background: #fff;
   font-family: "Open Sans", Arial, sans-serif;
